@@ -6,5 +6,5 @@ description: confira a lista de materiais da Franzininho DIY
 
 #### Versão da placa Franzininho V1RV1
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/lista-01.png)
 
