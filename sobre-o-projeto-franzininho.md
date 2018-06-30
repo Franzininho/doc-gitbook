@@ -42,7 +42,7 @@ Com isso surgiram diversas contribuições da comunidade para o projetos, como: 
 
 Após um período trabalhando com a Franzininho V0RV1, foi desenvolvida uma nova versão com conector USB. Essa nova versão resolveu 2 problemas: facilitou a fabricação e orientação da placa ao conectá-la no computador.
 
-![Franzininho V2](.gitbook/assets/img_20180501_170920103.jpg)
+![Franzininho V2](.gitbook/assets/sobre-06.jpg)
 
 A pinagem e funcionamento das duas versões são as mesmas.
 
