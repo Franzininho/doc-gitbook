@@ -8,3 +8,6 @@ description: confira a lista de materiais da Franzininho DIY
 
 ![](../.gitbook/assets/lista-01.png)
 
+
+### Versão da placa Franzininho V2RV0
+
