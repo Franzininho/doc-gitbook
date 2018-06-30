@@ -2,35 +2,33 @@
 description: Conheça os componentes da Franzininho DIY
 ---
 
-## Identificando os componentes
+# Identificando os componentes
 
 É importante identificar e separar os componentes antes da montagem da placa. A seguir serão apresentados todos os componentes da Franzininho com uma breve explicação sobre cada um.
 
-
-### Placa de Circuito impressso
+## Placa de Circuito impressso
 
 A placa de circuito impresso é responsável por receber todos os componentes. Ela pode ser feita de fibra de vidro ou fenolite. Para a Franzininho DIY foi desenvolvida um projeto em face simples, o que permite a fabricação caseira.
 
 ![placa](../.gitbook/assets/componentes-placa1.jpg)
 
-Na parte superior da placa(TOP) há os desenhos dos componentes, indicando a posição de cada um. O componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior(Bottom).
+Na parte superior da placa\(TOP\) há os desenhos dos componentes, indicando a posição de cada um. O componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior\(Bottom\).
 
 ![placa](../.gitbook/assets/componentes-placa-top-botton.png)
 
-
-### Resistores
+## Resistores
 
 Os resistores são componentes passivos que se opoem a passagem de corrente elétrica no circuito. Existem diversos tipos de resistores na Franzininho usamos resistores de carbono de 1/4 W. Os anéis coloridos indicam o valor e tolerância do resistor.
 
 ![tabela](../.gitbook/assets/componentes-tabela-resistores.png)
 
-Fonte: http://blog.render.com.br/eletronica/como-calcular-o-valor-de-um-resistor/
+Fonte: [http://blog.render.com.br/eletronica/como-calcular-o-valor-de-um-resistor/](http://blog.render.com.br/eletronica/como-calcular-o-valor-de-um-resistor/)
 
 Na Franzininho usamos 5 resistores, com as seguintes referências e valores:
 
 R1 e R2 - 68 R
 
-![resistor68R.png](../.gitbook/assets/componentes-resistor68R.png)
+![resistor68R.png](../.gitbook/assets/componentes-resistor68r.png)
 
 R3 - 1K5
 
@@ -40,8 +38,7 @@ R4 e R5 - 1K
 
 ![resistor1K.png](../.gitbook/assets/componentes-resistor1k.png)
 
-
-### Capacitores
+## Capacitores
 
 Capacitores são dispositivos elétricos capazes de armazenar carga elétrica em um campo elétrico. Na Franzininho temos 2 tipos de capacitores:
 
@@ -53,27 +50,25 @@ C2 -capacitor eletrolítico 10uF x 35V
 
 ![capacitor2](../.gitbook/assets/componentes-capacitor2.png)
 
-###  LEDS
+## LEDS
 
-LED (Light Emitting Diode), é usado para a emissão de luz em locais e instrumentos onde se torna mais conveniente a sua utilização no lugar de uma lâmpada.
+LED \(Light Emitting Diode\), é usado para a emissão de luz em locais e instrumentos onde se torna mais conveniente a sua utilização no lugar de uma lâmpada.
 
 Na Franzininho são usados dois leds difusos de 3 mm
 
-ON - LED Verde
-LED - LED Amarelo
+ON - LED Verde LED - LED Amarelo
 
 ![LEDs](../.gitbook/assets/componentes-leds.png)
 
-###  Chave táctil
+## Chave táctil
 
-É um botão de contato momentâneo. Na Franzininho usamos uma chave táctil NA (normalmente aberta) de 4,3 x 6 x 6 mm que tem a função de botão de reset.
-
+É um botão de contato momentâneo. Na Franzininho usamos uma chave táctil NA \(normalmente aberta\) de 4,3 x 6 x 6 mm que tem a função de botão de reset.
 
 Chave - RESET
 
 ![chave](../.gitbook/assets/componentes-chave.png)
 
-###  Soquete
+## Soquete
 
 Soquete é usado para o encaixe de circuitos integrados, facilitando a sua troca na placa.
 
@@ -83,17 +78,16 @@ IC1 - Soquete
 
 ![soquete](../.gitbook/assets/componentes-soquete.png)
 
-###  Barra de pinos
+## Barra de pinos
 
 São usadas para expansão de pinos e entrada de alimentação na placa. Na Franzininho usamos 3 vias para o conector de alimentação e 8 vias para o conector de expansão da placa
 
-- J1 - Barra de 3 pinos
-- P0, P1...GND - Barra de 8 pinos
+* J1 - Barra de 3 pinos
+* P0, P1...GND - Barra de 8 pinos
 
 ![Barra](../.gitbook/assets/componentes-barra.png)
 
-
-###  Regulador de Tensão
+## Regulador de Tensão
 
 Usado para baixar a tensão de entrada para um nível que o circuito possa trabalhar. Na Franzininho usamos um regulador de tensão de 5V, o 78L05
 
@@ -101,8 +95,9 @@ IC2 - 78L05 - Regulador de tensão 5V
 
 ![Regulador](../.gitbook/assets/componentes-regulador.png)
 
-###  Conector USB
+## Conector USB
 
 Usado para conectar a placa ao computador ou a um circuito de alimentação com conector USB. Na Franzininho usamos um Conector USB Macho 90º com trava
 
 ![USB](../.gitbook/assets/componentes-usb.png)
+

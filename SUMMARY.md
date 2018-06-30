@@ -4,5 +4,5 @@
 * [Sobre o Projeto Franzininho](sobre-o-projeto-franzininho.md)
 * [Franzininho DIY](franzininho-diy/README.md)
   * [Lista de materiais \(BOM\)](franzininho-diy/lista-de-materiais-bom.md)
-  * [Identificando os componentes)](franzininho-diy/identificando-os-componentes.md)
+  * [Identificando os componentes](franzininho-diy/identificando-os-componentes.md)
 
