@@ -15,3 +15,6 @@
   * [Drivers](franzininho-diy/drivers/README.md)
     - [Gemma](franzininho-diy/drivers/Gemma/gemma.md)
     - [Micronucleus](franzininho-diy/drivers/Micronucleus/micronucleus.md)
+  * [Configuração Arduino IDE](franzininho-diy/configuração-ide-arduino/README.md)
+    - [Gemma](franzininho-diy/configuração-ide-arduino/gemma/gemma.md)
+    - [Digispark](franzininho-diy/configuração-ide-arduino/digispark/digispark.md)
