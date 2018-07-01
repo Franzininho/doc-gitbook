@@ -10,4 +10,4 @@
   * [Pinagem das placas Franzininho](franzininho-diy/pinagem.md)
   * [Gravação do Bootloader](franzininho-diy/Bootloader/README.md)
     - [Gemma](franzininho-diy/Bootloader/Gemma/bootloarder-gemma.md)
-    - [Micronucleus](franzininho-diy/Bootloader/Gemma/bootloader-micronucleus.md)
+    - [Micronucleus](franzininho-diy/Bootloader/Micronucleus/bootloader-micronucleus.md)
