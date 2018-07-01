@@ -1,42 +1,43 @@
 ---
-description: Conheça os componentes da Franzininho DIY
+description: >-
+  É importante identificar e separar os componentes antes da montagem da placa.
+  A seguir serão apresentados todos os componentes da Franzininho com uma breve
+  explicação sobre cada um.
 ---
 
 # Identificando os componentes
 
-É importante identificar e separar os componentes antes da montagem da placa. A seguir serão apresentados todos os componentes da Franzininho com uma breve explicação sobre cada um.
-
-## Placa de Circuito impressso
+## Placa de Circuito impresso
 
 A placa de circuito impresso é responsável por receber todos os componentes. Ela pode ser feita de fibra de vidro ou fenolite. Para a Franzininho DIY foi desenvolvida um projeto em face simples, o que permite a fabricação caseira.
 
-![placa](../.gitbook/assets/componentes-placa1.jpg)
+![Placas Franzininho DIY V0 e V1](../.gitbook/assets/componentes-placa1.jpg)
 
-Na parte superior da placa\(TOP\) há os desenhos dos componentes, indicando a posição de cada um. O componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior\(Bottom\).
+Na parte superior da placa \(TOP\) há os desenhos dos componentes, indicando a posição de cada um. O componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior \(Bottom\).
 
-![placa](../.gitbook/assets/componentes-placa-top-botton.png)
+![TOP e Bottom da placa Franzininho DIY V2](../.gitbook/assets/componentes-placa-top-botton.png)
 
 ## Resistores
 
-Os resistores são componentes passivos que se opoem a passagem de corrente elétrica no circuito. Existem diversos tipos de resistores na Franzininho usamos resistores de carbono de 1/4 W. Os anéis coloridos indicam o valor e tolerância do resistor.
+Os resistores são componentes passivos que se opõem a passagem de corrente elétrica no circuito. Existem diversos tipos de resistores disponíveis. Na Franzininho DIY usamos resistores de carbono de 1/4 W. Os anéis coloridos indicam o valor e tolerância do resistor.
 
-![tabela](../.gitbook/assets/componentes-tabela-resistores.png)
+![Tabela C&#xF3;digo de cores para resistores de 4 faixas](../.gitbook/assets/componentes-tabela-resistores.png)
 
 Fonte: [http://blog.render.com.br/eletronica/como-calcular-o-valor-de-um-resistor/](http://blog.render.com.br/eletronica/como-calcular-o-valor-de-um-resistor/)
 
 Na Franzininho usamos 5 resistores, com as seguintes referências e valores:
 
-R1 e R2 - 68 R
+R1 e R2 - 68 R \(Azul, Cinza, Preto, Dourado\)
 
-![resistor68R.png](../.gitbook/assets/componentes-resistor68r.png)
+![Resistores de 68 Ohm](../.gitbook/assets/componentes-resistor68r.png)
 
-R3 - 1K5
+R3 - 1K5 \(Marrom, Verde, Vermelho, Dourado\)
 
-![resistor1K5.png](../.gitbook/assets/componentes-resistor1k5.png)
+![Resistor de 1500 Ohm](../.gitbook/assets/componentes-resistor1k5.png)
 
-R4 e R5 - 1K
+R4 e R5 - 1K \(Marrom, Preto, Vermelho, Dourado\)
 
-![resistor1K.png](../.gitbook/assets/componentes-resistor1k.png)
+![Resistor de 1000 Ohm](../.gitbook/assets/componentes-resistor1k.png)
 
 ## Capacitores
 
@@ -44,11 +45,11 @@ Capacitores são dispositivos elétricos capazes de armazenar carga elétrica em
 
 C1 - Capacitor Cerâmico 100 nF x 50 V
 
-![capacitor1](../.gitbook/assets/componentes-capacitor1.png)
+![Capacitor Cer&#xE2;mico 100 nF](../.gitbook/assets/componentes-capacitor1.png)
 
-C2 -capacitor eletrolítico 10uF x 35V
+C2 - Capacitor eletrolítico 10uF x 35V
 
-![capacitor2](../.gitbook/assets/componentes-capacitor2.png)
+![Capacitor eletrol&#xED;tico 10uF x 35V](../.gitbook/assets/componentes-capacitor2.png)
 
 ## LEDS
 
@@ -56,17 +57,17 @@ LED \(Light Emitting Diode\), é usado para a emissão de luz em locais e instru
 
 Na Franzininho são usados dois leds difusos de 3 mm
 
-ON - LED Verde LED - LED Amarelo
+ON - LED Verde, LED - LED Amarelo
 
-![LEDs](../.gitbook/assets/componentes-leds.png)
+![LEDs 3mm](../.gitbook/assets/componentes-leds.png)
 
 ## Chave táctil
 
-É um botão de contato momentâneo. Na Franzininho usamos uma chave táctil NA \(normalmente aberta\) de 4,3 x 6 x 6 mm que tem a função de botão de reset.
+É um botão de contato momentâneo. Na Franzininho usamos uma chave táctil NA \(normalmente aberta\) de 4,3 x 6 x 6 mm que tem a função de botão de Reset.
 
 Chave - RESET
 
-![chave](../.gitbook/assets/componentes-chave.png)
+![chave t&#xE1;ctil](../.gitbook/assets/componentes-chave.png)
 
 ## Soquete
 
@@ -76,7 +77,7 @@ Na Franzininho usamos um soquete de 8 pinos para acomodar o Microcontrolador att
 
 IC1 - Soquete
 
-![soquete](../.gitbook/assets/componentes-soquete.png)
+![soquete torneado 8 pinos](../.gitbook/assets/componentes-soquete.png)
 
 ## Barra de pinos
 
@@ -85,7 +86,7 @@ São usadas para expansão de pinos e entrada de alimentação na placa. Na Fran
 * J1 - Barra de 3 pinos
 * P0, P1...GND - Barra de 8 pinos
 
-![Barra](../.gitbook/assets/componentes-barra.png)
+![Barra de pinos](../.gitbook/assets/componentes-barra.png)
 
 ## Regulador de Tensão
 
@@ -93,11 +94,13 @@ Usado para baixar a tensão de entrada para um nível que o circuito possa traba
 
 IC2 - 78L05 - Regulador de tensão 5V
 
-![Regulador](../.gitbook/assets/componentes-regulador.png)
+![Regulador de tens&#xE3;o 78L05](../.gitbook/assets/componentes-regulador.png)
 
 ## Conector USB
 
 Usado para conectar a placa ao computador ou a um circuito de alimentação com conector USB. Na Franzininho usamos um Conector USB Macho 90º com trava
 
-![USB](../.gitbook/assets/componentes-usb.png)
+![Conector USB Macho 90&#xBA; com trava](../.gitbook/assets/componentes-usb.png)
+
+
 

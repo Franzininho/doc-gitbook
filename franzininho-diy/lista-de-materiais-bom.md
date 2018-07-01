@@ -1,12 +1,14 @@
 ---
-description: confira a lista de materiais da Franzininho DIY
+description: >-
+  Aqui você encontra a lista de componentes, caso você queira comprar para
+  montar sua Franzininho
 ---
 
 # Lista de materiais \(BOM\)
 
 ### Versão da placa Franzininho V1RV1
 
-![](../.gitbook/assets/lista-01.png)
+![Placa Franzininho DIY V1](../.gitbook/assets/lista-01.png)
 
 | Referência | Descrição |
 | --- | --- |
@@ -28,9 +30,9 @@ description: confira a lista de materiais da Franzininho DIY
 | RESET | Chave Táctil 6x6x5 mm |
 | PCB | Placa de circuito impresso Franzininho RV1 |
 
-## Versão da placa Franzininho V2RV0
+### Versão da placa Franzininho V2RV0
 
-![V2](../.gitbook/assets/lista-02.png)
+![Placa Franzininho DIY V2](../.gitbook/assets/lista-02.png)
 
 | Referência | Descrição |
 | --- | --- |
@@ -54,4 +56,10 @@ description: confira a lista de materiais da Franzininho DIY
 | RESET | Chave Táctil 6x6x5 mm |
 | USB | Conector USB Macho 90º com trava |
 | PCB | Placa de circuito impresso Franzininho V2 |
+
+
+
+### Hardware
+
+Todo o projeto de hardware está disponível no Github:  [franzininho-diy-board](https://github.com/Franzininho/franzininho-diy-board)
 
