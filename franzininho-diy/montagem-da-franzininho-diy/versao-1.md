@@ -14,19 +14,19 @@ Você também deve separar os componentes para deixar organizado, para que facil
 
 De início você terá uma placa sem componentes, conforme a imagem abaixo:
 
-![00](../../.gitbook/assets/montagem-v1-00.png)
+![](../../.gitbook/assets/montagem-v1-00.png)
 
 **1. Diodo 1N1448**
 
 Iremos colocar o Diodo 1N4148 na referência D3
 
-![01](../../.gitbook/assets/montagem-v1-01.png)
+![](../../.gitbook/assets/montagem-v1-01.png)
 
 **2. Diodo Zener**
 
 D1 deve-se colocar o primeiro diodo zener
 
-![02](../../.gitbook/assets/montagem-v1-02.png)
+![](../../.gitbook/assets/montagem-v1-02.png)
 
 **3. Diodo Zener**
 
