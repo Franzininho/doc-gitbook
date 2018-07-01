@@ -18,3 +18,4 @@
   * [Configuração Arduino IDE](franzininho-diy/configuração-ide-arduino/README.md)
     - [Gemma](franzininho-diy/configuração-ide-arduino/gemma/gemma.md)
     - [Digispark](franzininho-diy/configuração-ide-arduino/digispark/digispark.md)
+  * [Configuração Arduino IDE](franzininho-diy/upload-sketch/README.md)
