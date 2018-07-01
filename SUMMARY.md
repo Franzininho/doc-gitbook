@@ -19,3 +19,8 @@
     - [Gemma](franzininho-diy/configuração-ide-arduino/gemma/gemma.md)
     - [Digispark](franzininho-diy/configuração-ide-arduino/digispark/digispark.md)
   * [Upload do Sketch](franzininho-diy/upload-sketch/sketch.md)
+  * [Programação](franzininho-diy/programacao/README.md)
+    - [Entradas e Saídas Digitais](franzininho-diy/programacao/entradas-saidas-digitais/entradas-saidas.md)
+    - [Entradas Analógicas](franzininho-diy/programacao/entradas-analogicas/analogicas.md)
+    - [Entradas e Saídas Digitais](franzininho-diy/programacao/pwm/pwm.md)
+    - [Entradas e Saídas Digitais](franzininho-diy/programacao/i2c/i2c.md)
