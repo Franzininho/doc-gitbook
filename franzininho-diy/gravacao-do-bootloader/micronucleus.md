@@ -91,5 +91,5 @@ Será iniciada a gravação:
 
 ![](../../.gitbook/assets/image3%20%285%29.png)
 
-No final teremos o Attiny85 com o micronucleus pronto para usar.
+No final teremos o Attiny85 com o micronucleus pronto para ser programado.
 
