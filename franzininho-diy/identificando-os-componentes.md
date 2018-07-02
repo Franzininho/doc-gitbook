@@ -1,8 +1,5 @@
 ---
-description: >-
-  É importante identificar e separar os componentes antes da montagem da placa.
-  A seguir serão apresentados todos os componentes da Franzininho com uma breve
-  explicação sobre cada um.
+description: Conheça os componentes da Franzininho DIY
 ---
 
 # Identificando os componentes

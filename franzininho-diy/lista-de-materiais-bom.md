@@ -1,7 +1,5 @@
 ---
-description: >-
-  Aqui você encontra a lista de componentes, caso você queira comprar para
-  montar sua Franzininho
+description: confira a lista de materiais da Franzininho DIY
 ---
 
 # Lista de materiais \(BOM\)
