@@ -20,7 +20,7 @@ Nesse exemplo vamos fazer um semáforo de uma via.
 
 Faça a seguinte ligação no protoboard:
 
-![](./image1.png)
+![](../.gitbook/assets/image1%20%282%29.png)
 
 Sketch
 

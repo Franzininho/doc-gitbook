@@ -18,7 +18,7 @@ Nesse exemplo vamos ler um sensor LDR usando a entrada analógica. Será exibido
 
 Faça a seguinte ligação no protoboard:
 
-![](./image1.png)
+![](../.gitbook/assets/image1%20%2821%29.png)
 
 Sketch
 

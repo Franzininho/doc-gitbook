@@ -6,7 +6,7 @@ title: Configuração da IDE Arduino para programar Gemma
 
 Com a placa já montada e com o bootloader da Arduino Gemma já programado, o primeiro passo é configurar a IDE Arduino para uso da Franzininho.
 
-![](../../.gitbook/assets/image1%20%285%29.png)
+![](../../.gitbook/assets/image1%20%289%29.png)
 
 Agora vamos até a barra superior e clique em Ferrentas&gt;placa&gt;Arduino Gemma:
 
