@@ -18,7 +18,7 @@ Nesse exemplo é feito o controle do brilho do LED gradualmente. Para esse exemp
 
 Na protoboard você pode montar o circuito para acionamento do LED da seguinte forma:
 
-![](../../.gitbook/assets/image1%20%2810%29.png)
+![](./image1.png)
 
 ## Sketch
 

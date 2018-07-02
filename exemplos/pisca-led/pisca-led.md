@@ -18,7 +18,7 @@ O primeiro contato com a programação com o Arduino, você faz o blink \(que fa
 
 Na protoboard você pode montar o circuito para acionamento do LED da seguinte forma:
 
-![](../../.gitbook/assets/image1%20%282%29.png)
+![](./image1.png)
 
 ## Sketch
 

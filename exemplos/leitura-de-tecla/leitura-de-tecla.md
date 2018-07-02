@@ -14,7 +14,7 @@ Placa Franzininho; Protoboard; LED 3mm; 1 Resistor 220; 1 Resistor de 1K 1 Botã
 
 No protoboard você deve inserir o LED, resistores e o botão, conforme a imagem abaixo:
 
-![](../../.gitbook/assets/image1%20%2811%29.png)
+![](./image1.png)
 
 Sketch
 
