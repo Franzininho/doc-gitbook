@@ -10,7 +10,7 @@ Para esse tutorial você precisa instalar o bootloader Micronucleus, conforme ex
 
 Para esse projeto você irá precisar apenas de uma Franzininho e uma chave tactil:
 
-![url](../.gitbook/assets/circuito.png)
+![url](../.gitbook/assets/controle-jogo-google-chrome-dinossauro_circuito.png)
 
 ### Configuração da IDE Arduino
 
@@ -22,21 +22,21 @@ Acesse o menu Arquivos-&gt;preferencias e cole a URL a seguir para gerenciador d
 http://digistump.com/package_digistump_index.json
 ```
 
-![](../.gitbook/assets/image1%20%282%29.PNG)
+![](../.gitbook/assets/controle-jogo-google-chrome-dinossauro_image1.PNG)
 
 Agora acesso o menu: Ferramentas-&gt; placa -&gt; Gerenciador de placas. Aguarde alguns segundos até atualização da lista de pacotes e digite "digi". Aparecerá o pacote “Digistump AVR Boards” e clique em instalar.
 
-![instalar](../.gitbook/assets/image2.PNG)
+![instalar](../.gitbook/assets/controle-jogo-google-chrome-dinossauro_image2.PNG)
 
 Aguarde o fim da instalação e clique em fechar.
 
 Agora acesse o menu: Ferramentas-&gt;placas e escolha a opção “Digispark \(Default - 16.5mhz\)”.
 
-![select board](../.gitbook/assets/image3%20%281%29.png)
+![select board](../.gitbook/assets/controle-jogo-google-chrome-dinossauro_image3.png)
 
 Agora acesse o menu Ferramentas-&gt; programador e selecione a opção Micronucleus:
 
-![micronucleus](../.gitbook/assets/image4%20%282%29.png)
+![micronucleus](../.gitbook/assets/controle-jogo-google-chrome-dinossauro_image4.png)
 
 Pronto a IDE está pronta para programar a placa.
 

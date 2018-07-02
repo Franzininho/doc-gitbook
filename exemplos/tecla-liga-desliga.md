@@ -14,7 +14,7 @@ Placa Franzininho; Protoboard; LED 3mm; 1 Resistor 220; 1 Resistor de 1K; 1 Bot�
 
 No protoboard você deve inserir o LED, resistores e o botão, conforme a imagem abaixo:
 
-![](../.gitbook/assets/image1%20%2815%29.png)
+![](../.gitbook/assets/tecla-liga-desliga-01.png)
 
 Sketch
 

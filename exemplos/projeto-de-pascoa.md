@@ -55,7 +55,7 @@ Fio Marrom do servo motor no VCC dos pinos da Franzininho Fio Vermelho
 
 ## Circuito
 
-![circuito-pascoa\_bb.png](https://github.com/Franzininho/franzininho-docs/blob/master/05-Exemplos%20de%20projetos/Projeto%20de%20Páscoa%20com%20a%20Franzininho/circuito-pascoa_bb.png)
+![](./pascoa-circuito-pascoa_bb.png)
 
 ## Sketch
 
