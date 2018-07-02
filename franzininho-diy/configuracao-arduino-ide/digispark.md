@@ -4,7 +4,7 @@ description: Configuração da IDE Arduino para programar Digispark
 
 # Digispark
 
-Com o microcnucleus gravado no Attiny85 você pode programar a franzininho usando o pacote de software desenvolvidos para a digispark. Para isso, você precisa instalar o pacote de suporte da Digispark na IDE Arduino \(É necessário estar conectado a internet\).
+Com o micronucleus gravado no Attiny85 você pode programar a franzininho usando o pacote de software desenvolvidos para a digispark. Para isso, você precisa instalar o pacote de suporte da Digispark na IDE Arduino \(É necessário estar conectado a internet\).
 
 Acesse o menu Arquivos-&gt;preferencias e cole a URL a seguir para gerenciador de placas:
 
