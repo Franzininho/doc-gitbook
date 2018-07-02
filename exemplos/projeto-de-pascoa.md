@@ -55,7 +55,7 @@ Fio Marrom do servo motor no VCC dos pinos da Franzininho Fio Vermelho
 
 ## Circuito
 
-![](./pascoa-circuito-pascoa_bb.png)
+![](../.gitbook/assets/pascoa-circuito-pascoa_bb.png)
 
 ## Sketch
 
