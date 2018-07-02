@@ -8,7 +8,7 @@ title: Entradas Analógicas
 
 Na Franzininho temos **1 pino** que pode ser usado como entrada Analógica \(A1\). O Attiny85 possui mais entradas analógicas\(A0,A2,A3\), que também podem ser usadas mas com limitações no hardware\* conforme pinout:
 
-![Pinagem Franzininho V2](../.gitbook/assets/pinagem-v2%20%288%29.png)
+![Pinagem Franzininho V2](../.gitbook/assets/pinagem-v2.png)
 
 > **verificar limitações de uso dos pinos**
 
@@ -36,7 +36,7 @@ int \(0 a 1023\)
 
 Vamos ler o valor de um potenciômetro ligado ao pino P2\(A1\) e acionar o LED, quando a leitura atingir um valor definido:
 
-![Circuito](../.gitbook/assets/image1%20%2819%29.png)
+![Circuito](../.gitbook/assets/entradas-analogicas-image1.png)
 
 ```cpp
 const byte LED = 1; //pino do LED

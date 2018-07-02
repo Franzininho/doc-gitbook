@@ -122,7 +122,7 @@ HIGH ou LOW.
 
 Vamos ler o estado da tecla ligada o pino P2 e acionar o LED ligado a pino P1 conforme o seu estado:
 
-![Circuito](../.gitbook/assets/image1%20%281%29.png)
+![Circuito](../.gitbook/assets/entradas-saidas-digitais-image1.png)
 
 ```cpp
 const int LED = 1; //pino para o LED

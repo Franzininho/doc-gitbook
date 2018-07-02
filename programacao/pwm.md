@@ -8,7 +8,7 @@ title: PWM
 
 PWM, do inglês Pulse Width Modulation, é uma técnica utilizada por sistemas digitais para variação do valor médio de uma forma de onda periódica. A técnica consiste em manter a frequência de uma onda quadrada fixa e variar o tempo que o sinal fica em nível lógico alto. Esse tempo é chamado de duty cycle, ou seja, o ciclo ativo da forma de onda. No gráfico abaixo são exibidas algumas modulações PWM:
 
-![](../.gitbook/assets/pwm-arduino-01%20%281%29.jpg)
+![](../.gitbook/assets/PWM-ARDUINO-01.jpg)
 
 Analisando as formas de onda nota-se que a frequência da forma de onda tem o mesmo valor e varia-se o duty cycle da forma de onda. Quando o duty cicle está em 0% o valor médio da saída encontra-se em 0 V e consequentemente para um duty cycle de 100% a saída assume seu valor máximo, que no caso é 5V. Para um duty cycle de 50% a saída assumirá 50% do valor da tensão, 2,5 V e assim sucessivamente para cada variação no duty cycle. Portanto, para calcular o valor médio da tensão de saída de um sinal PWM pode-se utilizar a seguinte equação:
 
@@ -31,7 +31,7 @@ Fonte: [Usando as saídas PWM do Arduino](https://www.embarcados.com.br/pwm-do-a
 
 Na Franzininho temos **3 pinos** que pode ser usado como saidas PWM\(PWM0,PWM1 e PWM4\) conforme pinout:
 
-![](../.gitbook/assets/pinagem-v2%20%282%29.png)
+![](../.gitbook/assets/pinagem-v2.png)
 
 > **verificar limitações de uso dos pinos**
 
@@ -54,7 +54,7 @@ O valor deve ser de 0 a 255 onde com 0 a saída permanece sempre em nível baixo
 
 Vamos controlar o brilho do LED conforme o valor lido no potenciômetro
 
-![](../.gitbook/assets/image1%20%2813%29.png)
+![](../.gitbook/assets/pwm-image1.png)
 
 ```cpp
 const byte LED = 1; //pino do LED

@@ -6,17 +6,17 @@ descriptiom: I2C
 
 A biblioteca Wire usada para aplicações I2C não é compatível com o ATtiny85. Para a função de I2C podemos usar a biblioteca TinyWireM, disponibilizada pela Adafruit. Você pode baixá-la no [github](https://github.com/adafruit/TinyWireM) ou instalar através do gerenciador de bibliotecas no Arduino:
 
-![Instala&#xE7;&#xE3;o da Biblioteca](https://github.com/Franzininho/doc-gitbook/tree/1036f8ba24c634b609731a8de6e2b7d7bbfd2a03/programacao/i2c/.tinywirem.PNG)
+![Instala&#xE7;&#xE3;o da Biblioteca](i2c-tinywirem.PNG)
 
 Os pinos da I2C na Franzininho são: P0\(SDA\) e P2\(SCL\), conforme pinout:
 
-![](../.gitbook/assets/pinagem-v2%20%283%29.png)
+![](../.gitbook/assets/pinagem-v2.png)
 
 ## Exemplo
 
 Leitura do sensor de temperatura DS1620
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/i2c-image1.png)
 
 ```cpp
 /* ATtiny85 as an I2C Master  Ex1          BroHogan                      1/21/11
