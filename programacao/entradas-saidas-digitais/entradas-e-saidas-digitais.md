@@ -6,7 +6,7 @@ title: Entradas e Saídas Digitais
 
 Na Franzininho temos **6 pinos** que podem ser usados com entradas ou saídas digitais\( P0 a P5\), conforme pinout:
 
-![](../../.gitbook/assets/pinagem-v2%20%281%29.png)
+![Pinagem Franzininho V2](./pinagem-v2.png)
 
 > **verificar limitações de uso dos pinos**
 
@@ -122,7 +122,7 @@ HIGH ou LOW.
 
 Vamos ler o estado da tecla ligada o pino P2 e acionar o LED ligado a pino P1 conforme o seu estado:
 
-![](../../.gitbook/assets/image1%20%286%29.png)
+![Circuito](./image1.png)
 
 ```cpp
 const int LED = 1; //pino para o LED
