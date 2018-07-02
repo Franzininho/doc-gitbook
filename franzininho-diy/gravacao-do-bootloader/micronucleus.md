@@ -25,7 +25,7 @@ A seguir vamos exibir como você pode gravar o ATtiny85 para usar o Micronucleus
 
 Você precisará fazer a seguinte ligação do ATtiny85 no Arduino UNO:
 
-![](../../.gitbook/assets/image8.png)
+![](../../.gitbook/assets/bootloadermicronucleus-01.png)
 
 Figura 1 - Circuito para Gravação
 
@@ -33,11 +33,11 @@ Figura 1 - Circuito para Gravação
 
 O primeiro passo é configurar a placa Arduino UNO como programador ISP. Para isso acesse Arquivo-&gt; Exemplos-&gt;ArduinoISP-&gt;ArduinoISP
 
-![](../../.gitbook/assets/image7.png)
+![](../../.gitbook/assets/bootloadermicronucleus-02.png)
 
 Carregue o sketch na Arduino UNO:
 
-![](../../.gitbook/assets/image6.png)
+![](../../.gitbook/assets/bootloadermicronucleus-03.png)
 
 Baixando o firmware do Micronucleus
 
@@ -51,7 +51,7 @@ Salve no seu computador, descompacte e ache a pasta: micronucleus\firmware\relea
 
 Abra o prompt de comando e vá até o diretório onde está o Arduino:
 
-![](../../.gitbook/assets/image9.png)
+![](../../.gitbook/assets/bootloadermicronucleus-04.png)
 
 Agora vamos preparar o comando para gravar usando o avrdude:
 
@@ -65,7 +65,7 @@ Certifique-se que a placa está conectada corretamente ao PC, assim como a ATtin
 
 Copie o código e cole no prompt e pressione enter. Será iniciada a gravação:
 
-![](../../.gitbook/assets/image1%20%2812%29.png) ![](../../.gitbook/assets/image4%20%283%29.png) ![](../../.gitbook/assets/image5.png)
+![](../../.gitbook/assets/bootloadermicronucleus-05.png) ![](../../.gitbook/assets/bootloadermicronucleus-06.png) ![](../../.gitbook/assets/bootloadermicronucleus-07.png)
 
 No final teremos o Attiny85 com o micronucleus pronto para usar.
 
@@ -85,11 +85,11 @@ Certifique-se que a placa está conectada corretamente ao PC, assim como a ATtin
 
 Copie o código e cole no terminal e pressione enter. Será iniciada a gravação:
 
-![](../../.gitbook/assets/image2%20%282%29.png)
+![](../../.gitbook/assets/bootloadermicronucleus-08.png)
 
 Será iniciada a gravação:
 
-![](../../.gitbook/assets/image3%20%285%29.png)
+![](../../.gitbook/assets/bootloadermicronucleus-09.png)
 
 No final teremos o Attiny85 com o micronucleus pronto para ser programado.
 
