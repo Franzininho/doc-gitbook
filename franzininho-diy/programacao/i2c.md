@@ -1,5 +1,5 @@
 ---
-title: I2C
+descriptiom: I2C
 ---
 
 # I2C
