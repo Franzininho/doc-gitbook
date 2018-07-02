@@ -20,7 +20,7 @@ A seguir vamos apresentar o passo a passo para gravação do bootloader no Attin
 
 Você precisará fazer a seguinte ligação do ATtiny85 no Arduino UNO:
 
-![](../../.gitbook/assets/image1.png)
+![](../../.gitbook/assets/bootloarder-gemma-01.png)
 
 ## Preparando o Arduino UNO para programar o bootloader
 
@@ -34,7 +34,7 @@ O primeiro passo é fazer o upload do código para a Arduino UNO.
 
 Com as ligações feitas corretamente para a gravação do bootloader, abra o terminal serial, configure o baudrate para 9600 bps, e envie a letra G para iniciar a gravação. Será exibida a seguinte mensagem:
 
-![](../../.gitbook/assets/image2%20%283%29.png)
+![](../../.gitbook/assets/bootloarder-gemma-02.png)
 
 Pronto, agora é só inserir o microcontrolador na sua Franzininho.
 

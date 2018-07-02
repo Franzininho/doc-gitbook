@@ -16,17 +16,17 @@ Baixe o driver: [https://github.com/adafruit/Adafruit\_Windows\_Drivers/releases
 
 E depois instale:
 
-![](../../.gitbook/assets/driver1.png)
+![](../../.gitbook/assets/drivergemma1.png)
 
-![](../../.gitbook/assets/driver2.png)
+![](../../.gitbook/assets/drivergemma2.png)
 
 Escolha a opção: Trinket / Pro Trinket / Gemma \(USBtinyISP\):
 
-![](../../.gitbook/assets/driver3.PNG)
+![](../../.gitbook/assets/drivergemma3.PNG)
 
 Pronto, agora insira a placa no computador e veja se a mesma é reconhecida no gerenciador de dispositivos:
 
-![](../../.gitbook/assets/driver4.PNG)
+![](../../.gitbook/assets/drivergemma4.PNG)
 
 Caso por algum motivo não dê certo a instalação, use os arquivos \(inf/cat\) presentes nesse diretório.
 
