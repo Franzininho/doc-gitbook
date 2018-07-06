@@ -6,7 +6,7 @@ title: Gravação do bootloader Micronucleus
 
 ## Gravação do bootloader Micronucleus
 
-Micronucleus é um bootloader desenvolvido para os microcotroladores AVR ATtiny que possuem restrição de interface USB, baseado na ferramenta de programação multiplataforma o libusb, e com uma grande ênfase na compactação do bootloader, sendo o menor bootloader para AVR Attiny microcontroladores.
+Micronucleus é um bootloader desenvolvido para os microcontroladores AVR ATtiny que possuem restrição de interface USB, baseado na ferramenta de programação multiplataforma o libusb, e com uma grande ênfase na compactação do bootloader, sendo o menor bootloader para AVR ATtiny microcontroladores.
 
 Micronucleus é amplamente usado instalado em milhares de dispositivos de hardware de código aberto:  
 [https://github.com/micronucleus/micronucleus/blob/master/Devices\_with\_Micronucleus.md](https://github.com/micronucleus/micronucleus/blob/master/Devices_with_Micronucleus.md)
@@ -87,7 +87,7 @@ Verifique em qual porta a placa está conectada e substitua no comando **ttyACM0
 
 Certifique-se que a placa está conectada corretamente ao PC, assim como a ATtiny85 no Arduino Uno.
 
-Copie o código e cole no terminal e pressione enter. Será iniciada a gravação:
+Copie o código e cole no terminal e pressione enter:
 
 ![](../../.gitbook/assets/bootloadermicronucleus-08.png)
 
@@ -96,3 +96,4 @@ Será iniciada a gravação:
 ![](../../.gitbook/assets/bootloadermicronucleus-09.png)
 
 No final teremos o Attiny85 com o micronucleus pronto para ser programado.
+
