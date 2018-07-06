@@ -65,7 +65,11 @@ Certifique-se que a placa está conectada corretamente ao PC, assim como a ATtin
 
 Copie o código e cole no prompt e pressione enter. Será iniciada a gravação:
 
-![](../../.gitbook/assets/bootloadermicronucleus-05.png) ![](../../.gitbook/assets/bootloadermicronucleus-06.png) ![](../../.gitbook/assets/bootloadermicronucleus-07.png)
+![](../../.gitbook/assets/bootloadermicronucleus-05.png)
+
+![](../../.gitbook/assets/bootloadermicronucleus-06.png)
+
+![](../../.gitbook/assets/bootloadermicronucleus-07.png)
 
 No final teremos o Attiny85 com o micronucleus pronto para usar.
 
@@ -92,4 +96,3 @@ Será iniciada a gravação:
 ![](../../.gitbook/assets/bootloadermicronucleus-09.png)
 
 No final teremos o Attiny85 com o micronucleus pronto para ser programado.
-
