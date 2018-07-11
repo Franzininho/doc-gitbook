@@ -10,7 +10,7 @@ Com a placa já montada e com o bootloader da Arduino Gemma já programado, o pr
 
 Agora vamos até a barra superior e clique em Ferrentas&gt;placa&gt;Arduino Gemma:
 
-![](../../.gitbook/assets/image2%20%281%29.png)
+![](../../.gitbook/assets/configuracao-ide-image2.png)
 
 Após isso é necessário configurar o programador. Na barra de ferramentas, acesse Programador&gt;Arduino Gemma:
 
