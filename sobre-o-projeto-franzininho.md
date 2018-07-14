@@ -42,7 +42,7 @@ A pinagem e funcionamento das duas versões são as mesmas.
 
 ## Comunidade
 
-Hoje o projeto é mantido pela comunidade e liderado por Fábio Souza e Diana Santos, com diversos apoiadores. Todos os materiais desenvolvidos são publicados com licenças open source e publicamente, o que permitem que todos tenham acesso e possam usar como quiserem.
+ Atualmente o projeto é liderado por [Fabio Souza](https://medium.com/@fabiosouza) e [Diana Santos](https://medium.com/@dianaipsantos91), com apoio da [comunidade](https://www.facebook.com/groups/299236843857849/). Todos os materiais desenvolvidos são publicados com licenças open source e publicamente, o que permitem que todos tenham acesso e possam usar como quiserem.
 
 ## Licença de Hardware da Franzininho
 
