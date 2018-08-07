@@ -28,7 +28,9 @@ Pronto, agora insira a placa no computador e veja se a mesma é reconhecida no g
 
 ![](../../.gitbook/assets/drivergemma4.PNG)
 
-Caso por algum motivo não dê certo a instalação, use os arquivos \(inf/cat\) presentes nesse diretório.
+Caso por algum motivo não dê certo a instalação, faça o download dos arquivos e mande instalar buscando os arquivos na pasta. Faça o [**download aqui**](http://bit.ly/franzdriver)\*\*\*\*
+
+
 
 ## Linux
 
