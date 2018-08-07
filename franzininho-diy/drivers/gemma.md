@@ -37,8 +37,8 @@ Para usar com a maioria das distribuições Linux é necessário configurar algu
 Para instalar as regras, você precisará baixá-las e copiá-las para o local das regras do udev em seu sistema. Para a maioria dos sistemas Linux, como o Ubuntu, etc., as regras do udev são armazenadas em /etc/udev/rules.d/ \(verifique a documentação da distribuição / fóruns de ajuda se você não encontrar essa pasta\). Execute os seguintes comandos:
 
 ```text
-wget https://github.com/adafruit/Trinket_Arduino_Linux/raw/master/99-adafruit-boards.rules
-sudo cp 99-adafruit-boards.rules /etc/udev/rules.d/
+wget https://raw.githubusercontent.com/Franzininho/Franzininho-Linux/master/franzininho-gemma.rules
+sudo cp franzininho-gemma.rules /etc/udev/rules.d/
 ```
 
 Em seguida, você precisará recarregar as regras do udev para que elas sejam aplicadas corretamente. Você pode reiniciar sua máquina ou executar um comando como o seguinte:
@@ -70,7 +70,7 @@ sudo usermod -a -G plugdev $USER
 
 Fonte: [https://learn.adafruit.com/adafruit-arduino-ide-setup/linux-setup](https://learn.adafruit.com/adafruit-arduino-ide-setup/linux-setup)
 
-Para o Arch Linux. Contribuição por Filipe
+**Para o Arch Linux. Contribuição por Filipe**
 
 solucionei em partes o problema, agora é coisa besta fui na wiki do arch no udev adcionei em `/etc/udev/rules.d/50-usbtinyisp.rules`
 

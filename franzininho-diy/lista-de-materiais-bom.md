@@ -9,7 +9,7 @@ description: confira a lista de materiais da Franzininho DIY
 ![Placa Franzininho DIY V1](../.gitbook/assets/lista-01.png)
 
 | Referência | Descrição |
-| --- | --- |
+| :--- | :--- |
 | C1 | Capacitor Cerâmico 100 nF x 50 V |
 | C2 | Capacitor eletrolítico 10 uF x 35 V |
 | D1 | Diodo Zener 3,6 V 0,5W |
@@ -33,7 +33,7 @@ description: confira a lista de materiais da Franzininho DIY
 ![Placa Franzininho DIY V2](../.gitbook/assets/lista-02.png)
 
 | Referência | Descrição |
-| --- | --- |
+| :--- | :--- |
 | C1 | Capacitor Cerâmico 100 nF x 50 V |
 | C2 | Capacitor eletrolítico 10 uF x 35 V |
 | D1 | Diodo Zener 3,6 V 0,5W |
