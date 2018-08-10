@@ -12,7 +12,7 @@ Se você está usando o bootloader da Arduino Gemma, sigas as orientações a se
 
 Antes de usar a placa você precisa instalar o driver para o Windows.
 
-Baixe o driver: [https://github.com/adafruit/Adafruit\_Windows\_Drivers/releases/download/2.2.0/adafruit\_drivers\_2.2.0.0.exe](https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/2.2.0/adafruit_drivers_2.2.0.0.exe)
+Baixe o instalador do driver: [https://github.com/adafruit/Adafruit\_Windows\_Drivers/releases/download/2.2.0/adafruit\_drivers\_2.2.0.0.exe](https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/2.2.0/adafruit_drivers_2.2.0.0.exe)
 
 E depois instale:
 
