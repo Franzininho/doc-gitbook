@@ -44,15 +44,15 @@ Resistores 1K que são representados nas cores \(Marron, preto, vermelho,dourado
 
 ![09](../../.gitbook/assets/montagem-v2-09.png)
 
-**6. Chave tactil**
+**6. Soquete 8 pinos**
 
-A chave você consegue colocar apenas uma posição, então é só encaixa-la
+O soquete deve ser colocado no IC1 que trás a facilidade do encaixe do Attiny85
 
 ![10](../../.gitbook/assets/montagem-v2-10.png)
 
-**7. Soquete 8 pinos**
+**6. Chave tactil**
 
-O soquete deve ser colocado no IC1 que trás a facilidade do encaixe do Attiny85
+A chave você consegue colocar apenas uma posição, então é só encaixa-la
 
 ![11](../../.gitbook/assets/montagem-v2-11.png)
 
@@ -80,21 +80,21 @@ No IC2 você deve colocar o regulador, ele tem 3 terminais \(perninhas\) você d
 
 ![15](../../.gitbook/assets/montagem-v2-15.png)
 
-**12. Capacitor eletrolítico**
-
-C2 vamos colocar o capacitor eletrolítico
-
-![16](../../.gitbook/assets/montagem-v2-16.png)
-
-**13. Barra de 3 pinos**
+**12. Barra de 3 pinos**
 
 J1 aonde está referenciado com VIN, GND, VCC você irá colocar a barra com três pinos
 
-![17](../../.gitbook/assets/montagem-v2-17.png)
+![](../../.gitbook/assets/16.png)
 
-**14. Barra de 8 pinos**
+**13. Barra de 8 pinos**
 
 Referente ao \(GNG, VCC, P6 ...P1,P0\)
+
+![17](../../.gitbook/assets/montagem-v2-17.png)
+
+**14. Capacitor eletrolítico**
+
+Agora  vamos colocar o capacitor eletrolítico
 
 ![18](../../.gitbook/assets/montagem-v2-18.png)
 

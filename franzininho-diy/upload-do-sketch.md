@@ -14,11 +14,11 @@ Para fazer o upload para a Franzininho é necessário seguir os passos abaixo:
 
 1 - Certifique que a placa está conectada ao computador:
 
-![](../.gitbook/assets/upload-01.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 2 - Pressione o botão de Reset:
 
-![](../.gitbook/assets/upload-02.png)
+![](../.gitbook/assets/image.png)
 
 3 - Imediatamente em seguida clique no botão de upload na IDE:
 
@@ -32,7 +32,7 @@ Para fazer o upload para a Franzininho é necessário seguir os passos abaixo:
 
 ![](../.gitbook/assets/upload-05.png)
 
-Maravilha, sua Franzininho foi programada.
+Maravilha, sua Franzininho foi programada. Repita o procedimento acima, toda vez que for fazer o upload de código para sua placa.
 
 ## Micronucleus - Disgispark
 
@@ -58,5 +58,5 @@ Após plugar a placa será iniciado o upload do código:
 
 ![](../.gitbook/assets/upload-09.PNG)
 
-Pronto, a sua Franzininho está programada.
+Pronto, a sua Franzininho está programada. Repita o procedimento acima toda vez que for fazer upload de código para a placa. 
 
