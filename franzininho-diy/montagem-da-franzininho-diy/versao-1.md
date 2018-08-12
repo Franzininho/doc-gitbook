@@ -49,47 +49,47 @@ Resistores 1K que é representado nas cores \(Marrom, preto, vermelho,dourado\),
 
 ![](../../.gitbook/assets/montagem-v1-08.png)
 
-**9. Chave tactil**
+**Chave tactil**
 
 A chave você consegue colocar em apenas uma posição, então é só encaixa-la.
 
 ![](../../.gitbook/assets/montagem-v1-09.png)
 
-**10. Soquete 8 pinos**
+**Soquete 8 pinos**
 
 O soquete deve ser colocado no IC1 que tras a facilidade do encaixe do Attiny85
 
 ![10](../../.gitbook/assets/montagem-v1-10.png)
 
-**11. Capacitor Cerâmico**
+**Capacitor Cerâmico**
 
 No C1 você irá colocar o capacitor cerâmico.
 
 ![11](../../.gitbook/assets/montagem-v1-11.png)
 
-**12. LED Verde**
+**LED Verde**
 
 O Led verde deve ser colocado no ON
 
 ![12](../../.gitbook/assets/montagem-v1-12.png)
 
-**13. LED Amarelo**
+**LED Amarelo**
 
 ![13](../../.gitbook/assets/montagem-v1-13.png)
 
-**14. Capacitor eletrolitico**
+**Capacitor eletrolitico**
 
 C2 vamos colocar o capacitor eletrolitico
 
 ![14](../../.gitbook/assets/montagem-v1-14.png)
 
-**15. Barra de 8 pinos**
+**Barra de 8 pinos**
 
 Referente ao \(GNG, VCC, P6 ...P1,P0\)
 
 ![15](../../.gitbook/assets/montagem-v1-15.png)
 
-**16. Attiny85**
+**Attiny85**
 
 Por último iremos colocar o microcontrolador Attiny85
 
