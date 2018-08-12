@@ -30,6 +30,10 @@ Para nosso tutorial, vamos usar uma versão traduzida pelo Mau Maker. Você pode
 
 Você também pode baixar os arquivos que estão nesse repositório e gravar usando a IDE Arduino offline.
 
+{% hint style="info" %}
+Caso não tenha IDE do Arduino \(ambiente de programação\) , acesse www.arduino.cc
+{% endhint %}
+
 O primeiro passo é fazer o upload do código para a Arduino UNO.
 
 Com as ligações feitas corretamente para a gravação do bootloader, abra o terminal serial, configure o baudrate para 9600 bps, e envie a letra G para iniciar a gravação. Será exibida a seguinte mensagem:
