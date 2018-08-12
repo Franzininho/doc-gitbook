@@ -66,7 +66,9 @@ As placas e kits oferecidos no comércio, são de responsabilidade das empresas 
 
 Qualquer material comercializado, oficinas, e projetos feitos com Franzininho são de responsabilidade das pessoas e empresas que estão a frente da negociação.
 
-**Nós tentaremos ficar em cima para manter a qualidade e metodologia de aplicação do projeto, porém não podemos garantir que as mesmas sejam garantidas. Sendo assim, caso tenha algum problema, antes de atacar o projeto Franzininho ou os seus idealizadores, verifique se não foi um problema da empresa ou responsável a frente da atividade.**
+{% hint style="info" %}
+Nós tentaremos ficar em cima para manter a qualidade e metodologia de aplicação do projeto, porém não podemos garantir que as mesmas sejam garantidas. Sendo assim, caso tenha algum problema, antes de atacar o projeto Franzininho ou os seus idealizadores, verifique se não foi um problema da empresa ou responsável a frente da atividade.
+{% endhint %}
 
 O projeto está em constante atualização, e está só no começo. Fica o convite para qualquer pessoa que queira colaborar, aprender, criar novas placas, para interagir na comunidade. Apesar de ser um projeto de hardware, diversas áreas podem somar para o projeto.
 
