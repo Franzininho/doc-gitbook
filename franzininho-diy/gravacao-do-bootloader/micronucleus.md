@@ -71,7 +71,7 @@ Copie o código e cole no prompt e pressione enter. Será iniciada a gravação:
 
 ![](../../.gitbook/assets/bootloadermicronucleus-07.png)
 
-No final teremos o Attiny85 com o micronucleus pronto para usar.
+Após a gravação do microcontrolador, você poderá retirá-lo da matriz de contatos e colocá-lo na Franzininho, mas lembre-se de colocar na posição correta.
 
 ## Gravando no Linux
 
@@ -95,5 +95,5 @@ Será iniciada a gravação:
 
 ![](../../.gitbook/assets/bootloadermicronucleus-09.png)
 
-No final teremos o Attiny85 com o micronucleus pronto para ser programado.
+Após a gravação do microcontrolador, você poderá retirá-lo da matriz de contatos e colocá-lo na Franzininho, mas lembre-se de colocar na posição correta.
 
