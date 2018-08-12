@@ -48,5 +48,5 @@ Com as ligações feitas corretamente para a gravação do bootloader, abra o te
 
 ![](../../.gitbook/assets/bootloarder-gemma-02.png)
 
-Pronto, agora é só inserir o microcontrolador na sua Franzininho.
+Após a gravação do microcontrolador, você poderá retirá-lo da matriz de contatos e colocá-lo na Franzininho, mas lembre-se de colocar na posição correta.
 
