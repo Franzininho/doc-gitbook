@@ -7,7 +7,7 @@
   * [Identificando os componentes](franzininho-diy/identificando-os-componentes.md)
   * [Montagem da Franzininho DIY](franzininho-diy/montagem-da-franzininho-diy/README.md)
     * [Montando a Versão V1RV0](franzininho-diy/montagem-da-franzininho-diy/versao-1.md)
-    * [Versão 2](franzininho-diy/montagem-da-franzininho-diy/versao-2.md)
+    * [Montando a Versão V2RV0](franzininho-diy/montagem-da-franzininho-diy/versao-2.md)
   * [Pinagem das placas Franzininho](franzininho-diy/pinagem-das-placas-franzininho.md)
   * [Gravação do Bootloader](franzininho-diy/gravacao-do-bootloader/README.md)
     * [Gemma](franzininho-diy/gravacao-do-bootloader/gemma.md)

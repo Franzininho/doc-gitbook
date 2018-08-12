@@ -24,13 +24,13 @@ Após o Arduino Day, o layout da PCB foi melhorado onde foram incluídos mais 2 
 
 ![Franzininho V0RV1 feita ap&#xF3;s o Arduino Day](.gitbook/assets/sobre-04.png)
 
-Para continuar, tínhamos o desafio de conseguir placas para novas oficinas, já que não é todo mundo que tem acesso a ferramentas de fabricação digital ou métodos caseiros. Para viabilizar a fabricação de placas Franzininho em uma empresa especializada, foi lançada uma espécie de compra coletiva pela comunidade, liderada por Fábio Souza. Nessa inciativa foram feitas 600 placas, onde as pessoas tiveram acesso a placas com acabamento industrial.
+Para continuar, tínhamos o desafio de conseguir placas para novas oficinas, já que não é todo mundo que tem acesso a ferramentas de fabricação digital ou métodos caseiros. Para viabilizar a fabricação de placas Franzininho em uma empresa especializada, foi lançada uma espécie de compra coletiva pela comunidade, liderada por Fábio Souza. Nesta iniciativa foram feitas 600 placas, onde as pessoas tiveram acesso a placas com acabamento industrial.
 
 ![Primeiro lote de placas com acabamento industrial](.gitbook/assets/sobre-05.jpg)
 
 Dessas 600 placas diversas foram usadas para oficinas em hackerspaces, oficinas de solda, eventos. Com isso a comunidade só ganhou força.
 
-Com isso surgiram diversas contribuições da comunidade para o projetos, como: materiais para oficinas, layout, projetos e principalmente na documentação. A comunidade está crescendo cada vez mais e com diversas inciativas.
+Com isso surgiram diversas contribuições da comunidade para o projetos, como: materiais para oficinas, layout, projetos e principalmente na documentação. A comunidade está crescendo cada vez mais e com diversas iniciativas.
 
 ## Franzininho V2
 
@@ -42,7 +42,7 @@ A pinagem e funcionamento das duas versões são as mesmas.
 
 ## Comunidade
 
- Atualmente o projeto é liderado por [Fabio Souza](https://medium.com/@fabiosouza) e [Diana Santos](https://medium.com/@dianaipsantos91), com apoio da [comunidade](https://www.facebook.com/groups/299236843857849/). Todos os materiais desenvolvidos são publicados com licenças open source e publicamente, o que permitem que todos tenham acesso e possam usar como quiserem.
+ Atualmente o projeto é liderado por [Fábio Souza](https://medium.com/@fabiosouza) e [Diana Santos](https://medium.com/@dianaipsantos91), com apoio da [comunidade](https://www.facebook.com/groups/299236843857849/). Todos os materiais desenvolvidos são publicados com licenças open source e publicamente, o que permitem que todos tenham acesso e possam usar como quiserem.
 
 ## Licença de Hardware da Franzininho
 
@@ -62,7 +62,7 @@ A proposta é que todos os interessados possam montar o seu Arduino compatível,
 
 O projeto é open hardware e publicado com uma licença que permite a venda por empresas sem a necessidade de pagar royalties ou obrigação de contribuir para a comunidade.
 
-As placas e kits oferecidos no comercio, são de responsabilidade das empresas que estão comercializado. Assim como o valor e negociação deve ser feito com eles.
+As placas e kits oferecidos no comércio, são de responsabilidade das empresas que estão comercializado. Assim como o valor e negociação deve ser feito com eles.
 
 Qualquer material comercializado, oficinas, e projetos feitos com Franzininho são de responsabilidade das pessoas e empresas que estão a frente da negociação.
 
