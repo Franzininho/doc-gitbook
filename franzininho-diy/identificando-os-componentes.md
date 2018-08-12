@@ -1,5 +1,8 @@
 ---
-description: Conheça os componentes da Franzininho DIY
+description: >-
+  Para deixar claro todo o funcionamento da Franzininho, precisamos conhecer um
+  pouco dos componentes que compõem o projeto, assim poderemos fazer mudanças e
+  aprimorar ainda mais este projeto.
 ---
 
 # Identificando os componentes
