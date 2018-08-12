@@ -12,5 +12,7 @@ description: Confira os funções de cada pino da Franzininho
 
 ![pinagem V2RV0](../.gitbook/assets/pinagem-v2%20%281%29.png)
 
+{% hint style="info" %}
 \*A pinagem de saída das duas versões são iguais. Na V2RV0 foi incluído conector de alimentação externa.
+{% endhint %}
 

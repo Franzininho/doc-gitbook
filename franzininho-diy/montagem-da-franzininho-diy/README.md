@@ -4,5 +4,24 @@ description: Montagem
 
 # Montagem da Franzininho DIY
 
+Antes de tudo você deve preparar o ambiente, separando as ferramentas necessárias para a soldagem, vamos precisar de:
+
+* Ferro de solda
+* Rolo de estanho
+* Alicate de corte etc.
+* Óculos de proteção
+
+Você também deve separar os componentes para deixar organizado, para que facilite na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizados, então vamos lá?!
+
+{% hint style="info" %}
+Verifique qual versão da placa Franzininho DIY você tem em mãos e siga as instruções de montagem:
+
+* [V1RV0](https://franzininho.gitbook.io/franzininho-docs/~/edit/drafts/-LJfwaN2OUG0WGA8mcr_/franzininho-diy/montagem-da-franzininho-diy/versao-1)
+* [V2RV0](https://franzininho.gitbook.io/franzininho-docs/~/edit/drafts/-LJfwaN2OUG0WGA8mcr_/franzininho-diy/montagem-da-franzininho-diy/versao-2)
+{% endhint %}
+
+
+
+  
 
 
