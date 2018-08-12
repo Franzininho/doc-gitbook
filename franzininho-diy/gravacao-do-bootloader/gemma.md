@@ -26,6 +26,14 @@ Você precisará fazer a seguinte ligação do ATtiny85 no Arduino UNO:
 
 A Adafruit disponibiliza um sketch para a [gravação do bootloader](https://learn.adafruit.com/introducing-trinket/repairing-bootloader) da Arduino Gemma e Trinket.
 
+{% hint style="info" %}
+Sketch – No mundo dos microcontroladores, “sketch” são programas ou parte de programas prontos que servem de “modelo” ou podem ser aplicados na íntegraintegra nos microcontroladores, no bom estilo Copia e Colar.
+
+Bootloader da Adafruit:
+
+https://learn.adafruit.com/introducing-trinket/repairing-bootloader  
+{% endhint %}
+
 Para nosso tutorial, vamos usar uma versão traduzida pelo Mau Maker. Você pode acessar o projeto disponibilizado na [plataforma Arduino Create](https://create.arduino.cc/editor/maujabur/397f14ad-1fc1-49a5-b9a8-2143fda15b35/preview).
 
 Você também pode baixar os arquivos que estão nesse repositório e gravar usando a IDE Arduino offline.
