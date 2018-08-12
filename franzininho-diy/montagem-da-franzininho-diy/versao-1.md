@@ -2,73 +2,58 @@
 description: Confira o passo a passo da montagem da Franzininho DIY V1
 ---
 
-# Versão 1
+# Montando a Versão V1RV0
 
 Antes de tudo você deve preparar o ambiente, separando as ferramentas necessárias para a soldagem, vamos precisar de:
 
 * Ferro de solda
 * Rolo de estanho
-* Alicate de corte etc.
+* Alicate de corte
+* Óculos de proteção
 
-Você também deve separar os componentes para deixar organizado, para que facilite na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizados, então vamos lá?!
+**Você também deve separar os componentes para deixar organizado, para que facilite na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizados, então vamos lá?!**
+
+### Montando a Versão V1RV0
 
 De início você terá uma placa sem componentes, conforme a imagem abaixo:
 
 ![](../../.gitbook/assets/montagem-v1-00.png)
 
-**1. Diodo 1N1448**
+**Diodo 1N1448**
 
-Iremos colocar o Diodo 1N4148 na referência D3
+Para deixarmos a montagem simples e limpa, aconselhamos primeiramente soldarmos dos diodos como na imagem abaixo. Procure na placa o local onde devemos encontrar a referência D3, onde colocaremos o Diodo 1N4148.
 
 ![](../../.gitbook/assets/montagem-v1-01.png)
 
-**2. Diodo Zener**
+**Diodo Zener \(3V6\)**
 
-D1 deve-se colocar o primeiro diodo zener
+Em seguida , devemos soldar os dois Diodos Zeners \(3V6\) nas referências D1 e D2:
 
-![](../../.gitbook/assets/montagem-v1-02.png)
+![](../../.gitbook/assets/montagem-v1-03.png)
 
-**3. Diodo Zener**
+#### **Resistor 68R**
 
-D2 deve-se colocar o segundo diodo zener
+Agora iremos soldar os nossos resistores, o primeiro é o resistor de 60 ohms \(as cores de marcação são azul, cinza, preto e dourado\), este deve ser soldado na referência R1. O segundo resistor tem a mesma resistência \(68 ohms\) e deverá ser soldado em paralelo ao primeiro onde encontramos a referência R2.
 
-![03](../../.gitbook/assets/montagem-v1-03.png)
+![](../../.gitbook/assets/montagem-v1-05.png)
 
-**4. Resistor 68R**
-
-O primeiro resistor iremos colocar no R1 suas cores são \(Azul,cinza,preto,dourado\)
-
-![04](../../.gitbook/assets/montagem-v1-04.png)
-
-**5. Resistor 68R**
-
-O segundo resistor deve-se colocar no R1 suas cores são \(Azul,cinza,preto,dourado\)
-
-![05](../../.gitbook/assets/montagem-v1-05.png)
-
-**6. Resistor 1K5**
+**Resistor 1K5**
 
 R3 deve-se colocar o resistor 1k5 que é representado nas cores \(Marron,verde,vermelho,dourado\)
 
-![06](../../.gitbook/assets/montagem-v1-06.png)
+![](../../.gitbook/assets/montagem-v1-06.png)
 
-**7. Resistores 1K**
+**Resistores 1K**
 
-Resistor 1K que é representado nas cores \(Marron, preto, vermelho,dourado\) deve-se colocar no R4
+Resistores 1K que é representado nas cores \(Marrom, preto, vermelho,dourado\), nas referências R4 e R5.
 
-![07](../../.gitbook/assets/montagem-v1-07.png)
-
-**8. Resistores 1K**
-
-Resistor 1K que é representado nas cores \(Marron, preto, vermelho,dourado\) deve-se colocar no R5
-
-![08](../../.gitbook/assets/montagem-v1-08.png)
+![](../../.gitbook/assets/montagem-v1-08.png)
 
 **9. Chave tactil**
 
 A chave você consegue colocar em apenas uma posição, então é só encaixa-la.
 
-![09](../../.gitbook/assets/montagem-v1-09.png)
+![](../../.gitbook/assets/montagem-v1-09.png)
 
 **10. Soquete 8 pinos**
 
@@ -112,5 +97,6 @@ Por último iremos colocar o microcontrolador Attiny85
 
 Pronto!
 
-Sua Franzininho versão 1 está montada, agora é só programar e criar vários projetos.
+Agora a Franzininho versão 1 está pronta, agora precisamos programá-la.  
+
 
