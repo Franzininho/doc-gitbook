@@ -16,7 +16,7 @@ Nesse tutorial você fará uma versão to theremin usando a Franzininho.
 
 #### Circuito
 
-![](../../.gitbook/assets/theremin.png)
+![](../.gitbook/assets/theremin.png)
 
   
 

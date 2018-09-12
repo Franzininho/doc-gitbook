@@ -31,8 +31,8 @@
   * [Tecla Liga/Desliga](exemplos/tecla-liga-desliga.md)
   * [Sensor de luz com LDR](exemplos/sensor-de-luz-com-ldr.md)
   * [Semáforo](exemplos/semaforo.md)
+  * [Theremin](exemplos/theremin.md)
   * [Controle Jogo Google Chrome \(dinossauro\)](exemplos/controle-jogo-google-chrome-dinossauro.md)
   * [Projeto de Páscoa](exemplos/projeto-de-pascoa.md)
-  * [Carrinho controlado por Bluetooth](exemplos/carrinho-controlado-por-bluetooth/README.md)
-    * [Theremin](exemplos/carrinho-controlado-por-bluetooth/theremin.md)
+  * [Carrinho controlado por Bluetooth](exemplos/carrinho-controlado-por-bluetooth.md)
 
