@@ -33,5 +33,6 @@
   * [Semáforo](exemplos/semaforo.md)
   * [Controle Jogo Google Chrome \(dinossauro\)](exemplos/controle-jogo-google-chrome-dinossauro.md)
   * [Projeto de Páscoa](exemplos/projeto-de-pascoa.md)
-  * [Carrinho controlado por Bluetooth](exemplos/carrinho-controlado-por-bluetooth.md)
+  * [Carrinho controlado por Bluetooth](exemplos/carrinho-controlado-por-bluetooth/README.md)
+    * [Theremin](exemplos/carrinho-controlado-por-bluetooth/theremin.md)
 
