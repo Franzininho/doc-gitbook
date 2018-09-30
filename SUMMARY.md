@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documentação do projeto Franzininho](README.md)
+* [Documentação Franzininho DIY](README.md)
 * [Sobre o Projeto Franzininho](sobre-o-projeto-franzininho.md)
 * [Franzininho DIY](franzininho-diy/README.md)
   * [Lista de materiais \(BOM\)](franzininho-diy/lista-de-materiais-bom.md)
@@ -24,7 +24,7 @@
   * [Entradas Analógicas](programacao/entradas-analogicas.md)
   * [PWM](programacao/pwm.md)
   * [I2C](programacao/i2c.md)
-* [Exemplos](exemplos/README.md)
+* [Exemplos de projetos com Frazininho DIY](exemplos/README.md)
   * [Pisca LED](exemplos/pisca-led.md)
   * [Controle brilho de LED](exemplos/controle-brilho-de-led.md)
   * [Leitura de Tecla](exemplos/leitura-de-tecla.md)
