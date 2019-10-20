@@ -60,3 +60,37 @@ Após plugar a placa será iniciado o upload do código:
 
 Pronto, a sua Franzininho está programada. Repita o procedimento acima toda vez que for fazer upload de código para a placa. 
 
+
+
+### Solução de problemas:
+
+#### \(Micronucleus\) Erro ao fazer upload \(Contribuição de [caioau](https://github.com/caioau) \)
+
+Caso o erro abaixo \(ou parecido\) apareça:
+
+```text
+Warning: device with unknown new version of Micronucleus detected.
+This tool doesn't know how to upload to this new device. Updates may be available.
+Device reports version as: 2.4
+```
+
+Significa que a ferramenta que faz o upload do computador para a placa com o Micronucleus esta desatualizada.
+
+Caso não tenha instalado gcc e o make, instale-os:
+
+> sudo apt install build-essential git
+
+Clone o repositório do micronucleus:
+
+> git clone git@github.com:micronucleus/micronucleus.git
+
+Compile e substitua o binário antigo pelo atualizado:
+
+```text
+cd micronucleus/commandline/
+make
+cp micronucleus /home/<SEU_USUARIO>/.arduino15/packages/digistump/tools/micronucleus/2.0a4/micronucleus
+```
+
+Tudo pronto! Deve estar funcionando agora,Tente compilar e fazer o upload novamente.
+
