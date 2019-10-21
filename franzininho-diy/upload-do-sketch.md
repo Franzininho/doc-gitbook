@@ -92,5 +92,28 @@ make
 cp micronucleus /home/<SEU_USUARIO>/.arduino15/packages/digistump/tools/micronucleus/2.0a4/micronucleus
 ```
 
-Tudo pronto! Deve estar funcionando agora,Tente compilar e fazer o upload novamente.
+Tudo pronto! Deve estar funcionando agora. Tente compilar e fazer o upload novamente.
+
+Caso retorne o seguinte erro após o make:
+
+```text
+Building library: micronucleus_lib...
+gcc   -Ilibrary -O -g -D LINUX -c library/micronucleus_lib.c
+In file included from library/micronucleus_lib.c:30:0:
+library/micronucleus_lib.h:35:80: fatal error: usb.h: No such file or directory
+   #include <usb.h>        // this is libusb, see http://libusb.sourceforge.net/
+                                                                                ^
+compilation terminated.
+Makefile:49: recipe for target 'micronucleus_lib' failed
+make: *** [micronucleus_lib] Error 1
+--- End code ---
+```
+
+Instale:
+
+```text
+sudo apt-get install libusb-dev
+```
+
+E compile novamente. 
 
