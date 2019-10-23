@@ -9,17 +9,17 @@ description: >-
 
 ## Placa de Circuito impresso
 
-A placa de circuito impresso é responsável por receber todos os componentes. Ela pode ser feita de fibra de vidro ou fenolite. Para a Franzininho DIY foi desenvolvida um projeto em face simples, o que permite a fabricação caseira.
+A placa de circuito impresso é responsável por receber todos os componentes. Ela pode ser feita de fibra de vidro ou fenolite. Para a Franzininho DIY foi desenvolvido um projeto em face simples, o que permite a fabricação caseira.
 
 ![Placas Franzininho DIY V0 e V1](../.gitbook/assets/componentes-placa1.jpg)
 
-Na parte superior da placa \(TOP\) há os desenhos dos componentes, indicando a posição de cada um. O componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior \(Bottom\).
+Na parte superior da placa \(TOP\) há os desenhos dos componentes, indicando a posição de cada um. Os componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior \(Bottom\).
 
 ![TOP e Bottom da placa Franzininho DIY V2](../.gitbook/assets/componentes-placa-top-botton.png)
 
 ## Resistores
 
-Os resistores são componentes passivos que se opõem a passagem de corrente elétrica no circuito. Existem diversos tipos de resistores disponíveis. Na Franzininho DIY usamos resistores de carbono de 1/4 W. Os anéis coloridos indicam o valor e tolerância do resistor.
+Os resistores são componentes passivos que se opõem à passagem de corrente elétrica no circuito. Existem diversos tipos de resistores disponíveis. Na Franzininho DIY usamos resistores de carbono de 1/4 W. Os anéis coloridos indicam o valor e tolerância do resistor.
 
 ![Tabela C&#xF3;digo de cores para resistores de 4 faixas](../.gitbook/assets/componentes-tabela-resistores.png)
 
@@ -51,9 +51,9 @@ C2 - Capacitor eletrolítico 10uF x 35V
 
 ![Capacitor eletrol&#xED;tico 10uF x 35V](../.gitbook/assets/componentes-capacitor2.png)
 
-## LEDS
+## LEDs
 
-LED \(Light Emitting Diode\), é usado para a emissão de luz em locais e instrumentos onde se torna mais conveniente a sua utilização no lugar de uma lâmpada.
+O LED \(Light Emitting Diode\) é usado para a emissão de luz em locais e instrumentos onde se torna mais conveniente a sua utilização no lugar de uma lâmpada.
 
 Na Franzininho são usados dois leds difusos de 3 mm
 
@@ -67,17 +67,17 @@ ON - LED Verde, LED - LED Amarelo
 
 Chave - RESET
 
-![chave t&#xE1;ctil](../.gitbook/assets/componentes-chave.png)
+![Chave t&#xE1;ctil](../.gitbook/assets/componentes-chave.png)
 
 ## Soquete
 
-Soquete é usado para o encaixe de circuitos integrados, facilitando a sua troca na placa.
+O soquete é usado para o encaixe de circuitos integrados, facilitando a sua troca na placa.
 
 Na Franzininho usamos um soquete de 8 pinos para acomodar o Microcontrolador attiny85
 
 IC1 - Soquete
 
-![soquete torneado 8 pinos](../.gitbook/assets/componentes-soquete.png)
+![Soquete torneado 8 pinos](../.gitbook/assets/componentes-soquete.png)
 
 ## Barra de pinos
 
@@ -90,7 +90,7 @@ São usadas para expansão de pinos e entrada de alimentação na placa. Na Fran
 
 ## Regulador de Tensão
 
-Usado para baixar a tensão de entrada para um nível que o circuito possa trabalhar. Na Franzininho usamos um regulador de tensão de 5V, o 78L05
+Usado para abaixar a tensão de entrada para um nível em que o circuito possa trabalhar. Na Franzininho usamos um regulador de tensão de 5V, o 78L05
 
 IC2 - 78L05 - Regulador de tensão 5V
 

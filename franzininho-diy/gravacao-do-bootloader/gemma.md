@@ -6,9 +6,9 @@ title: Gravação do bootloader Gemma
 
 ## Gravação do bootloader Gemma
 
-A Arduino Gemma criada pela Adafruit, possui um bootloader próprio para o Attiny85. Você pode usar a Franzininho como uma Arduino Gemma gravando esse bootloader no Attiny85.
+A Arduino Gemma, criada pela Adafruit, possui um bootloader próprio para o Attiny85. Você pode usar a Franzininho como uma Arduino Gemma gravando esse bootloader no Attiny85.
 
-A seguir vamos apresentar o passo a passo para gravação do bootloader no Attiny85 e a configuração do divers em seu computador.
+A seguir vamos apresentar o passo a passo para gravação do bootloader no Attiny85 e configuração dos drivers em seu computador.
 
 ## Materiais Necessários
 
@@ -27,7 +27,7 @@ Você precisará fazer a seguinte ligação do ATtiny85 no Arduino UNO:
 A Adafruit disponibiliza um sketch para a [gravação do bootloader](https://learn.adafruit.com/introducing-trinket/repairing-bootloader) da Arduino Gemma e Trinket.
 
 {% hint style="info" %}
-Sketch – No mundo dos microcontroladores, “sketch” são programas ou parte de programas prontos que servem de “modelo” ou podem ser aplicados na íntegraintegra nos microcontroladores, no bom estilo Copia e Colar.
+Sketch – No mundo dos microcontroladores, “sketch” são programas ou parte de programas prontos que servem de “modelo” ou podem ser aplicados na íntegra nos microcontroladores, no bom estilo Copia e Colar.
 
 Bootloader da Adafruit:
 

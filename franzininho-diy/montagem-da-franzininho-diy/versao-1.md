@@ -11,7 +11,7 @@ Antes de tudo você deve preparar o ambiente, separando as ferramentas necessár
 * Alicate de corte
 * Óculos de proteção
 
-**Você também deve separar os componentes para deixar organizado, para que facilite na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizados, então vamos lá?!**
+Você também deve separar os componentes para facilitar na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizado, então vamos lá?!
 
 ### Montando a Versão V1RV0
 
@@ -21,43 +21,43 @@ De início você terá uma placa sem componentes, conforme a imagem abaixo:
 
 #### **Diodo 1N1448**
 
-Para deixarmos a montagem simples e limpa, aconselhamos primeiramente soldarmos dos diodos como na imagem abaixo. Procure na placa o local onde devemos encontrar a referência D3, onde colocaremos o Diodo 1N4148.
+Para deixarmos a montagem simples e limpa, aconselhamos primeiramente soldarmos os diodos como na imagem abaixo. Procure na placa o local onde está a referência D3, onde colocaremos o Diodo 1N4148.
 
 ![](../../.gitbook/assets/montagem-v1-01.png)
 
 #### **Diodo Zener \(3V6\)**
 
-Em seguida , devemos soldar os dois Diodos Zeners \(3V6\) nas referências D1 e D2:
+Em seguida, devemos soldar os dois Diodos Zeners \(3V6\) nas referências D1 e D2:
 
 ![](../../.gitbook/assets/montagem-v1-03.png)
 
 #### **Resistor 68R**
 
-Agora iremos soldar os nossos resistores, o primeiro é o resistor de 60 ohms \(as cores de marcação são azul, cinza, preto e dourado\), este deve ser soldado na referência R1. O segundo resistor tem a mesma resistência \(68 ohms\) e deverá ser soldado em paralelo ao primeiro onde encontramos a referência R2.
+Agora iremos soldar os nossos resistores. O primeiro é o resistor de 60 ohms \(as cores de marcação são azul, cinza, preto e dourado\), este deve ser soldado na referência R1. O segundo resistor tem a mesma resistência \(68 ohms\) e deverá ser soldado em paralelo ao primeiro onde encontramos a referência R2.
 
 ![](../../.gitbook/assets/montagem-v1-05.png)
 
 #### **Resistor 1K5**
 
-R3 deve-se colocar o resistor 1k5 que é representado nas cores \(Marron,verde,vermelho,dourado\)
+Em R3 deve-se colocar o resistor 1k5 que é representado nas cores \(Marrom,verde,vermelho,dourado\)
 
 ![](../../.gitbook/assets/montagem-v1-06.png)
 
 #### **Resistores 1K**
 
-Resistores 1K que é representado nas cores \(Marrom, preto, vermelho,dourado\), nas referências R4 e R5.
+Os resistores de 1K, representados nas cores \(Marrom, preto, vermelho,dourado\), devem ser colocados nas referências R4 e R5.
 
 ![](../../.gitbook/assets/montagem-v1-08.png)
 
-#### **Chave tactil**
+#### **Chave táctil**
 
-A chave você consegue colocar em apenas uma posição, então é só encaixa-la.
+A chave você consegue colocar em apenas uma posição, então é só encaixá-la.
 
 ![](../../.gitbook/assets/montagem-v1-09.png)
 
 #### **Soquete 8 pinos**
 
-O soquete deve ser colocado no IC1 que tras a facilidade do encaixe do Attiny85
+O soquete deve ser colocado no IC1 que traz a facilidade do encaixe do ATtiny85.
 
 ![10](../../.gitbook/assets/montagem-v1-10.png)
 
@@ -69,7 +69,7 @@ No C1 você irá colocar o capacitor cerâmico.
 
 #### **LED Verde**
 
-O Led verde deve ser colocado no ON
+O Led verde deve ser colocado no ON.
 
 ![12](../../.gitbook/assets/montagem-v1-12.png)
 
@@ -79,24 +79,25 @@ O Led verde deve ser colocado no ON
 
 #### **Capacitor eletrolitico**
 
-C2 vamos colocar o capacitor eletrolitico
+Em C2 vamos colocar o capacitor eletrolítico.
 
 ![14](../../.gitbook/assets/montagem-v1-14.png)
 
 #### **Barra de 8 pinos**
 
-Referente ao \(GNG, VCC, P6 ...P1,P0\)
+Deverá ser colocada onde estão indicados \(GND, VCC, P6 ..., P1,P0\)
 
 ![15](../../.gitbook/assets/montagem-v1-15.png)
 
-#### **Attiny85**
+#### **ATtiny85**
 
-Por último iremos colocar o microcontrolador Attiny85
+Por último iremos colocar o microcontrolador ATtiny85 no soquete de 8 pinos que
+colocamos antes.
 
 ![16](../../.gitbook/assets/montagem-v1-16.png)
 
 Pronto!
 
-Agora a Franzininho versão 1 está pronta, agora precisamos programá-la.  
+Agora a Franzininho versão 1 está pronta, só precisamos programá-la.
 
 

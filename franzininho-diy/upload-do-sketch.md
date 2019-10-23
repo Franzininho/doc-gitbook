@@ -74,9 +74,9 @@ This tool doesn't know how to upload to this new device. Updates may be availabl
 Device reports version as: 2.4
 ```
 
-Significa que a ferramenta que faz o upload do computador para a placa com o Micronucleus esta desatualizada.
+Significa que a ferramenta que faz o upload do computador para a placa com o Micronucleus está desatualizada.
 
-Caso não tenha instalado gcc e o make, instale-os:
+Caso não tenha instalado gcc e make, instale-os:
 
 > sudo apt install build-essential git
 
