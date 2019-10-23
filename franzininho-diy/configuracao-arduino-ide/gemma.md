@@ -8,7 +8,7 @@ Com a placa já montada e com o bootloader da Arduino Gemma já programado, o pr
 
 ![](../../.gitbook/assets/image1%20%289%29.png)
 
-Agora vamos até a barra superior e clique em Ferrentas&gt;placa&gt;Arduino Gemma:
+Agora vamos até a barra superior e clique em Ferramentas&gt;Placa&gt;Arduino Gemma:
 
 ![](../../.gitbook/assets/configuracao-ide-image2.png)
 
@@ -16,5 +16,5 @@ Após isso é necessário configurar o programador. Na barra de ferramentas, ace
 
 ![](../../.gitbook/assets/image3.png)
 
-Pronto a configuração da placa e programador para programação da Franzininho com o bootloader da Arduino Gemma está feita. Agora é só fazer o upload do seu sketch para a placa.
+Pronto, a configuração da placa e programador para programação da Franzininho com o bootloader da Arduino Gemma está feita. Agora é só fazer o upload do seu sketch para a placa.
 

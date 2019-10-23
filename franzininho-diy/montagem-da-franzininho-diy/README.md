@@ -11,7 +11,7 @@ Antes de tudo você deve preparar o ambiente, separando as ferramentas necessár
 * Alicate de corte etc.
 * Óculos de proteção
 
-Você também deve separar os componentes para deixar organizado, para que facilite na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizados, então vamos lá?!
+Você também deve separar os componentes para facilitar na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizado, então vamos lá?!
 
 {% hint style="warning" %}
 Verifique qual versão da placa Franzininho DIY você tem em mãos e siga as instruções de montagem:
