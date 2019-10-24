@@ -50,10 +50,10 @@ void loop() {
 
   int valor = analogRead(POT); // lê o valor do potenciômetro
 
-  if(valor> 511){             //se valor maior que 511
-   digitalWrite(LED,HIGH);    //liga LED
- }else{                       //se não
-   digitalWrite(LED,LOW);     //apaga LED
+  if(valor> 511){              //se valor maior que 511
+    digitalWrite(LED,HIGH);    //liga LED
+  }else{                       //se não
+    digitalWrite(LED,LOW);     //apaga LED
   }
 }
 ```

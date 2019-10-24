@@ -40,12 +40,12 @@ Vamos configurar o pino P0 para leitura de uma tecla, portanto será uma entrada
 int tecla = 0;   //pino da tecla
 int LED = 1;     //pino do LED
 
-void  setup () {
-     pinMode(tecla, INPUT); //configura pino da tecla como entrada
-    pinMode(LED, OUTPUT); //configura pino do LED como saída
+void setup() {
+  pinMode(tecla, INPUT); //configura pino da tecla como entrada
+  pinMode(LED, OUTPUT);  //configura pino do LED como saída
 }
 
-void loop(){
+void loop() {
 
 
 }
@@ -136,9 +136,8 @@ void setup(){
 }
 
 void loop (){
-val = digitalRead(BOTAO); // lê e armazena o valor de entrada
-digitalWrite(LED, val); //aciona LED conforme valor lido do botão
-
+  val = digitalRead(BOTAO); // lê e armazena o valor de entrada
+  digitalWrite(LED, val); //aciona LED conforme valor lido do botão
 }
 ```
 
