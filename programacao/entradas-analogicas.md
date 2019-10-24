@@ -10,7 +10,7 @@ Na Franzininho temos **1 pino** que pode ser usado como entrada Analógica \(A1\
 
 ![Pinagem Franzininho V2](../.gitbook/assets/pinagem-v2.png)
 
-> **verificar limitações de uso dos pinos**
+> **Verificar limitações de uso dos pinos**
 
 ## Função
 
@@ -26,7 +26,7 @@ Lê o valor presente em um pino configurado como entrada analógica. Internament
 
 #### Parâmetros:
 
-pino: valor do pino configurado como entrada analógica \(0,1,2,3 na Franzininho\)
+**pino:** número do pino configurado como entrada analógica \(0,1,2,3 na Franzininho\)
 
 ### Retorno
 
@@ -34,7 +34,7 @@ int \(0 a 1023\)
 
 #### Exemplo
 
-Vamos ler o valor de um potenciômetro ligado ao pino P2\(A1\) e acionar o LED, quando a leitura atingir um valor definido:
+Vamos ler o valor de um potenciômetro ligado ao pino P2\(A1\) e acionar o LED quando a leitura atingir um valor definido:
 
 ![Circuito](../.gitbook/assets/entradas-analogicas-image1.png)
 

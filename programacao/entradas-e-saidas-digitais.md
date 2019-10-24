@@ -4,19 +4,19 @@ title: Entradas e Saídas Digitais
 
 # Entradas e Saídas Digitais
 
-Na Franzininho temos **6 pinos** que podem ser usados com entradas ou saídas digitais\( P0 a P5\), conforme pinout:
+Na Franzininho temos **6 pinos** que podem ser usados como entradas ou saídas digitais\( P0 a P5\), conforme pinout:
 
 ![Pinagem Franzininho V2](../.gitbook/assets/pinagem-v2.png)
 
-> **verificar limitações de uso dos pinos**
+> **Verificar limitações de uso dos pinos**
 
 ## Configuração do modo de funcionamento do pino
 
-Os pinos do ATtiny85 podem ser configurados como entradas ou saídas, além de outras funções. Para configuração com entrada ou saída vamos usar a seguinte função:
+Os pinos do ATtiny85 podem ser configurados como entradas ou saídas, além de outras funções. Para configuração como entrada ou saída digital vamos usar a seguinte função:
 
 `pinMode()`
 
-Configura um pino especifico para ser entrada ou saída digital.
+Configura um pino específico para ser entrada ou saída digital.
 
 ### Sintaxe:
 
@@ -26,15 +26,15 @@ Configura um pino especifico para ser entrada ou saída digital.
 
 **pino:** corresponde ao pino que você irá usar, no caso da Franzininho podemos usar pinos de 0 a 5.
 
-**modo:** deve-se colocar o modo que deseja configurar o pino:
+**modo:** deve-se colocar o modo no qual se deseja configurar o pino:
 
-* INPUT  =  Entrada onde ele fica aguardando um sinal
-* OUTPUT = Saída onde aparece um sinal do pino para ativar um circuito externo
-* INPUT\_PULLUP = Entrada digital com resistor de pull-up \(ligado ao VCC\) interno habilitado;
+* INPUT  =  Entrada: Esse pino receberá sinais vindos de um circuito externo
+* OUTPUT = Saída: Esse pino enviará sinais para ativar um circuito externo
+* INPUT\_PULLUP = Entrada digital com resistor de pull-up \(ligado ao VCC\) interno habilitado
 
 ### Exemplo
 
-Vamos configurar pino P0 para leitura de uma tecla, portanto será uma entrada digital. Também vamos configurar o pino P1 para acionamento do LED, ou seja, uma saída digital:
+Vamos configurar o pino P0 para leitura de uma tecla, portanto será uma entrada digital. Também vamos configurar o pino P1 para acionamento do LED, ou seja, uma saída digital:
 
 ```cpp
 int tecla = 0;   //pino da tecla
@@ -51,7 +51,7 @@ void loop(){
 }
 ```
 
-Geralmente as configurações são realizadas dentro da função setup\(\). Na função loop são realizadas as tarefas durante o funcionamento da placa, como veremos mais a frente.
+Geralmente as configurações são realizadas dentro da função setup\(\). Na função loop são realizadas as tarefas durante o funcionamento da placa, como veremos mais à frente.
 
 ## Escrita em um pino digital
 
@@ -59,7 +59,7 @@ Os pinos digitais configurados como saídas digitais podem assumir dois valores,
 
 `digitalWrite()`
 
-Coloca um nível lógico Alto \(HIGH, 5V\) ou baixo \(LOW, 0V\) em um pino configurado como saída digital.
+Coloca um nível lógico alto \(HIGH, 5V\) ou baixo \(LOW, 0V\) em um pino configurado como saída digital.
 
 ### Sintaxe
 
@@ -67,9 +67,9 @@ Coloca um nível lógico Alto \(HIGH, 5V\) ou baixo \(LOW, 0V\) em um pino confi
 
 ### Parâmetros
 
-**pino:** Numero correspondente ao pino;
+**pino:** Número correspondente ao pino.
 
-**valor:** HIGH OU LOW
+**valor:** HIGH ou LOW.
 
 ### Exemplo
 
@@ -90,7 +90,7 @@ void loop(){
 }
 ```
 
-A funçao delay\(ms\) espera um tempo em milisegundos. No caso do exemplo acima, 1000 ms = 1 segundo;
+A função delay\(ms\) espera um tempo em milissegundos. No caso do exemplo acima, 1000 ms = 1 segundo;
 
 ## Leitura de um pino digital
 
@@ -104,7 +104,7 @@ Para leitura de uma entrada digital usamos a seguinte função:
 
 `digitalRead()`
 
-Lê o valor presente e um pino digital. Este valor pode ser HIGH ou LOW.
+Lê o valor presente em um pino digital. Este valor pode ser HIGH ou LOW.
 
 ### Sintaxe
 
@@ -112,7 +112,7 @@ Lê o valor presente e um pino digital. Este valor pode ser HIGH ou LOW.
 
 ### Parâmetros:
 
-**pino:** valor correspondente ao pino que se deseja ler.
+**pino:** número do pino que se deseja ler.
 
 ### Retorno
 
@@ -120,7 +120,7 @@ HIGH ou LOW.
 
 ### Exemplo
 
-Vamos ler o estado da tecla ligada o pino P2 e acionar o LED ligado a pino P1 conforme o seu estado:
+Vamos ler o estado da tecla ligada ao pino P2 e acionar o LED ligado a pino P1 conforme o seu estado:
 
 ![Circuito](../.gitbook/assets/entradas-saidas-digitais-image1.png)
 

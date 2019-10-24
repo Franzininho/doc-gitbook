@@ -8,13 +8,13 @@ A biblioteca Wire usada para aplicações I2C não é compatível com o ATtiny85
 
 ![Instala&#xE7;&#xE3;o da Biblioteca](../.gitbook/assets/i2c-tinywirem.PNG)
 
-Os pinos da I2C na Franzininho são: P0\(SDA\) e P2\(SCL\), conforme pinout:
+Os pinos de I2C na Franzininho são: P0\(SDA\) e P2\(SCL\), conforme pinout:
 
 ![](../.gitbook/assets/pinagem-v2.png)
 
 ## Exemplo
 
-Leitura do sensor de temperatura DS1620
+Vamos fazer a leitura do sensor de temperatura DS1620:
 
 ![](../.gitbook/assets/i2c-image1.png)
 
