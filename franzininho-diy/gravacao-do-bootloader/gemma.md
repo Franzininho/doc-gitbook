@@ -31,7 +31,7 @@ Sketch – No mundo dos microcontroladores, “sketch” são programas ou parte
 
 Bootloader da Adafruit:
 
-https://learn.adafruit.com/introducing-trinket/repairing-bootloader  
+[https://learn.adafruit.com/introducing-trinket/repairing-bootloader](https://learn.adafruit.com/introducing-trinket/repairing-bootloader)
 {% endhint %}
 
 Para nosso tutorial, vamos usar uma versão traduzida pelo Mau Maker. Você pode acessar o projeto disponibilizado na [plataforma Arduino Create](https://create.arduino.cc/editor/maujabur/397f14ad-1fc1-49a5-b9a8-2143fda15b35/preview).

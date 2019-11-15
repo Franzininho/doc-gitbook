@@ -9,9 +9,7 @@ Antes de tudo você deve preparar o ambiente, separando as ferramentas necessár
 
 Você também deve separar os componentes para facilitar na hora de soldar. Você encontra os componentes na lista de materiais. Tudo organizado, então vamos lá?!
 
-
-
-### **Montando a Versão V2RV0** 
+## **Montando a Versão V2RV0**
 
 De início você terá uma placa sem componentes, conforme a imagem abaixo:
 
@@ -25,7 +23,7 @@ O primeiro componente a ser colocado é o Diodo 1N4148 no D3, cuidando com a pol
 
 ![](../../.gitbook/assets/montagem-v2-02.png)
 
- **Diodos Zener \(3V6\)**
+**Diodos Zener \(3V6\)**
 
 Temos dois diodos zener que deverão ser colocados nas referências D1 e D2. Lembre-se da polaridade deles, coloque do lado certo!
 
@@ -43,7 +41,7 @@ Em R3 deve-se colocar o resistor 1k5 que é representado nas cores \(Marrom, ver
 
 ![](../../.gitbook/assets/montagem-v2-07.png)
 
- **Resistores 1K**
+**Resistores 1K**
 
 Resistores de 1K que são representados nas cores \(Marrom, preto, vermelho,dourado\) devem ser colocados em R4 e R5.
 

@@ -25,8 +25,7 @@ Nesse tutorial você fará uma versão to theremin usando a Franzininho.
 
 O código a seguir ler o valor da entrada analógica e atua na saída do speaker
 
-{% code-tabs %}
-{% code-tabs-item title="Theremin" %}
+{% code title="Theremin" %}
 ```c
 /*
  * Theremim Franzininho
@@ -48,8 +47,7 @@ void loop()
  delayMicroseconds(analogRead(sensor)<<2);
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 
 

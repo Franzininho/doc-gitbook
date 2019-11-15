@@ -6,7 +6,7 @@ description: Conheça a história da Franzininho e um pouco da sua evolução
 
 ## Concepção e desenvolvimento
 
-A Franzininho foi desenvolvida para as atividades dentro do [FAB LAB Livre SP](http://www.fablablivresp.art.br/arduinoday) durante o [Arduino Day São Paulo 2017](http://arduinosaopaulo.cc/). [Thalis Antunes](https://www.linkedin.com/in/thalis-antunes-de-souza-a87a3035/) e [Fábio Souza ](https://about.me/fabio.souza)conceberam o projeto a partir do desafio de realizar atividades simultâneas nos 12 FABLABs livres em SP, em um Arduino Day realizado pela Prefeitura de São Paulo e com apoio de Embarcados, Fazedores e MinasUP. Como as atividades teriam apoio do ITS com os materiais, chegou-se à conclusão que seria melhor fazer placas compatíveis com Arduino para as pessoas montarem e terem experiência com solda. Fábio Souza desenhou o hardware baseado nos projetos de hardwares das placas Arduino Gemma e Digispark \(placas open hardware\)  e a batizou dando sequência à placa antecessora, Franzino, que também é open hardware e com a pegada DIY.
+A Franzininho foi desenvolvida para as atividades dentro do [FAB LAB Livre SP](http://www.fablablivresp.art.br/arduinoday) durante o [Arduino Day São Paulo 2017](http://arduinosaopaulo.cc/). [Thalis Antunes](https://www.linkedin.com/in/thalis-antunes-de-souza-a87a3035/) e [Fábio Souza ](https://about.me/fabio.souza)conceberam o projeto a partir do desafio de realizar atividades simultâneas nos 12 FABLABs livres em SP, em um Arduino Day realizado pela Prefeitura de São Paulo e com apoio de Embarcados, Fazedores e MinasUP. Como as atividades teriam apoio do ITS com os materiais, chegou-se à conclusão que seria melhor fazer placas compatíveis com Arduino para as pessoas montarem e terem experiência com solda. Fábio Souza desenhou o hardware baseado nos projetos de hardwares das placas Arduino Gemma e Digispark \(placas open hardware\) e a batizou dando sequência à placa antecessora, Franzino, que também é open hardware e com a pegada DIY.
 
 ![Franzininho V0](.gitbook/assets/sobre-01.jpg)
 
@@ -42,7 +42,7 @@ A pinagem e funcionamento das duas versões são as mesmas.
 
 ## Comunidade
 
- Atualmente o projeto é liderado por [Fábio Souza](https://medium.com/@fabiosouza) e [Diana Santos](https://medium.com/@dianaipsantos91), com apoio da [comunidade](https://www.facebook.com/groups/299236843857849/). Todos os materiais desenvolvidos são publicados com licenças open source e publicamente, o que permitem que todos tenham acesso e possam usar como quiserem.
+Atualmente o projeto é liderado por [Fábio Souza](https://medium.com/@fabiosouza) e [Diana Santos](https://medium.com/@dianaipsantos91), com apoio da [comunidade](https://www.facebook.com/groups/299236843857849/). Todos os materiais desenvolvidos são publicados com licenças open source e publicamente, o que permitem que todos tenham acesso e possam usar como quiserem.
 
 ## Licença de Hardware da Franzininho
 
@@ -71,6 +71,4 @@ Nós tentaremos ficar em cima para manter a qualidade e metodologia de aplicaç�
 {% endhint %}
 
 O projeto está em constante atualização, e está só no começo. Fica o convite para qualquer pessoa que queira colaborar, aprender, criar novas placas, para interagir na comunidade. Apesar de ser um projeto de hardware, diversas áreas podem somar para o projeto.
-
-
 

@@ -16,12 +16,7 @@ Você também deve separar os componentes para facilitar na hora de soldar. Voc�
 {% hint style="warning" %}
 Verifique qual versão da placa Franzininho DIY você tem em mãos e siga as instruções de montagem:
 
-*  Montando a Versão [V1RV0](versao-1.md)
-*  Montando a Versão [V2RV0](versao-2.md)
+* Montando a Versão [V1RV0](versao-1.md)
+* Montando a Versão [V2RV0](versao-2.md)
 {% endhint %}
-
-
-
-  
-
 

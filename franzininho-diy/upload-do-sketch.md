@@ -58,9 +58,7 @@ Após plugar a placa será iniciado o upload do código:
 
 ![](../.gitbook/assets/upload-09.PNG)
 
-Pronto, a sua Franzininho está programada. Repita o procedimento acima toda vez que for fazer upload de código para a placa. 
-
-
+Pronto, a sua Franzininho está programada. Repita o procedimento acima toda vez que for fazer upload de código para a placa.
 
 ### Solução de problemas:
 
@@ -115,5 +113,5 @@ Instale:
 sudo apt-get install libusb-dev
 ```
 
-E compile novamente. 
+E compile novamente.
 

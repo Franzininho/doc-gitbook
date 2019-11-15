@@ -102,5 +102,3 @@ Usado para conectar a placa ao computador ou a um circuito de alimentação com 
 
 ![Conector USB Macho 90&#xBA; com trava](../.gitbook/assets/componentes-usb.png)
 
-
-

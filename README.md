@@ -1,3 +1,7 @@
+---
+description: Documentação oficial da placa Franzininho DIY
+---
+
 # Documentação Franzininho DIY
 
 Olá, seja bem vindo ao repositório com a documentação oficial da Franzininho DIY. Aqui você encontrará todo o conteúdo para montagem e uso da placa, assim como alguns exemplos de projetos. Se você quiser colaborar, ou viu algum erro, fique a vontade para sugerir alterações.
